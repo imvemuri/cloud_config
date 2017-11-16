@@ -5,7 +5,7 @@ spring:
 spring:
   profiles: development
 server:
-  port: 8761
+  port: 8762
 endpoints:
   restart:
     enabled: true
